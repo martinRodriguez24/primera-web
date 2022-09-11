@@ -1,0 +1,11 @@
+{
+  "name": "first-web",
+  "version": "1.0.0",
+  "description": "Web responsive. abril 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Ristoff",
+  "license": "ISC"
+}
